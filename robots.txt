@@ -1,0 +1,4 @@
+
+user-agent: *
+disallow: /aerobic/hero
+disallow:/contectus(form)/form-index
